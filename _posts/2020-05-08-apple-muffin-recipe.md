@@ -8,7 +8,7 @@ title: Apple Muffin Recipe
 ## Ingredients 
 <b>Note: this recipe replaces baking powder with baking soda</b>
 
-- Two apples (:green_apple: or :apple:)
+- Two apples (any kind)
 - 115 gram melted butter
 - 200 gram sugar
 - 165ml skim milk
@@ -42,7 +42,7 @@ Whisk only 10 times until flour is incorporated, lumps are fine
 
 ### Step 6
 
-Stir through apple- minimum stir
+Stir through apple (minimum stir)
 
 ### Step 7
 
@@ -58,4 +58,4 @@ Bake for 18 minutes (fan forced mode) or 20 minutes (standard mode)
 
 ### Step 10
 
-Rest muffins for 5 minutes. Then enjoy the meal :smiley:
+Rest muffins for 5 minutes. Then enjoy the meal
